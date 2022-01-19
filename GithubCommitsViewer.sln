@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubCommitsViewer.Console", "GithubCommitsViewer.Console\GithubCommitsViewer.Console.csproj", "{489DEDBB-4756-4507-8BE7-D77E2B62271C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubCommitsViewer.Application", "GithubCommitsViewer.Application\GithubCommitsViewer.Application.csproj", "{5CF2F3CD-FA07-4768-9D9D-6F94D7790CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489DEDBB-4756-4507-8BE7-D77E2B62271C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489DEDBB-4756-4507-8BE7-D77E2B62271C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489DEDBB-4756-4507-8BE7-D77E2B62271C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489DEDBB-4756-4507-8BE7-D77E2B62271C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF2F3CD-FA07-4768-9D9D-6F94D7790CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF2F3CD-FA07-4768-9D9D-6F94D7790CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF2F3CD-FA07-4768-9D9D-6F94D7790CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF2F3CD-FA07-4768-9D9D-6F94D7790CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
